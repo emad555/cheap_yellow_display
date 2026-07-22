@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Cheap Yellow Display Projects</title>
+  <desc id="desc">Overview artwork for ESP32 Cheap Yellow Display project collection.</desc>
+  <rect width="1200" height="630" fill="#101418"/>
+  <rect x="80" y="70" width="1040" height="490" rx="28" fill="#18b99a"/>
+  <rect x="190" y="130" width="820" height="360" rx="8" fill="#0f1720"/>
+  <rect x="215" y="155" width="770" height="310" rx="4" fill="#e9f7ff"/>
+  <text x="600" y="218" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#102030">Cheap Yellow Display</text>
+  <text x="600" y="275" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#263b4c">ESP32-2432S028 project collection</text>
+  <g transform="translate(285 330)">
+    <rect x="0" y="0" width="90" height="70" rx="8" fill="#2e86de"/>
+    <circle cx="45" cy="35" r="18" fill="#ffdd59"/>
+    <rect x="125" y="0" width="90" height="70" rx="8" fill="#111"/>
+    <rect x="157" y="14" width="14" height="42" fill="#20bf6b"/>
+    <circle cx="188" cy="20" r="6" fill="#eb3b5a"/>
+    <rect x="250" y="0" width="90" height="70" rx="8" fill="#0b3d91"/>
+    <path d="M272 48c34-42 47-42 68 0" fill="none" stroke="#f7b731" stroke-width="8"/>
+    <rect x="375" y="0" width="90" height="70" rx="8" fill="#161b22"/>
+    <rect x="390" y="18" width="60" height="8" fill="#20bf6b"/>
+    <rect x="390" y="34" width="42" height="8" fill="#45aaf2"/>
+    <rect x="390" y="50" width="52" height="8" fill="#fed330"/>
+    <rect x="500" y="0" width="90" height="70" rx="8" fill="#192a56"/>
+    <polygon points="526,52 562,18 568,56" fill="#eb3b5a"/>
+  </g>
+  <text x="600" y="535" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#d8f5ee">Games, tools, wireless scanners, weather, and video playback</text>
+</svg>

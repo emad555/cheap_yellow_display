@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">WiFi and BLE Scanner</title>
+  <desc id="desc">ESP32 CYD wireless scanner preview.</desc>
+  <rect width="1200" height="630" fill="#0d1117"/>
+  <rect x="95" y="70" width="1010" height="490" rx="28" fill="#18b99a"/>
+  <rect x="205" y="125" width="790" height="380" rx="8" fill="#08111f"/>
+  <rect x="235" y="155" width="730" height="55" fill="#123c69"/>
+  <text x="265" y="193" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#fff">WiFi and BLE Scanner</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#dbeafe">
+    <text x="270" y="260">Home_Network</text>
+    <text x="270" y="315">Workshop_IoT</text>
+    <text x="270" y="370">Open_Guest</text>
+    <text x="270" y="425">BLE: SensorTag</text>
+  </g>
+  <g fill="#20bf6b">
+    <rect x="760" y="238" width="26" height="22"/>
+    <rect x="792" y="222" width="26" height="38"/>
+    <rect x="824" y="202" width="26" height="58"/>
+    <rect x="856" y="176" width="26" height="84"/>
+  </g>
+  <g fill="#f7b731">
+    <rect x="760" y="293" width="26" height="22"/>
+    <rect x="792" y="277" width="26" height="38"/>
+    <rect x="824" y="257" width="26" height="58"/>
+  </g>
+  <g fill="#eb3b5a">
+    <rect x="760" y="348" width="26" height="22"/>
+    <rect x="792" y="332" width="26" height="38"/>
+  </g>
+  <path d="M710 422c42-58 96-58 138 0M735 446c24-33 64-33 88 0" fill="none" stroke="#45aaf2" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="779" cy="470" r="10" fill="#45aaf2"/>
+</svg>

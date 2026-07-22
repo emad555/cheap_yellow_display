@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">CYD PC Launchpad</title>
+  <desc id="desc">Touch app launcher preview for Windows PC control.</desc>
+  <rect width="1200" height="630" fill="#101418"/>
+  <rect x="95" y="70" width="1010" height="490" rx="28" fill="#18b99a"/>
+  <rect x="205" y="125" width="790" height="380" rx="8" fill="#f7fafc"/>
+  <rect x="205" y="125" width="790" height="70" fill="#17202a"/>
+  <text x="600" y="170" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#fff">Launchpad</text>
+  <g transform="translate(285 240)">
+    <rect width="130" height="92" rx="10" fill="#e8f1ff"/>
+    <rect x="170" width="130" height="92" rx="10" fill="#eafaf1"/>
+    <rect x="340" width="130" height="92" rx="10" fill="#fff2e6"/>
+    <rect y="125" width="130" height="92" rx="10" fill="#f0f4ff"/>
+    <rect x="170" y="125" width="130" height="92" rx="10" fill="#f5f6fa"/>
+    <rect x="340" y="125" width="130" height="92" rx="10" fill="#e8fff8"/>
+    <circle cx="65" cy="38" r="22" fill="#eb3b5a"/>
+    <circle cx="235" cy="38" r="22" fill="#20bf6b"/>
+    <circle cx="405" cy="38" r="22" fill="#f7b731"/>
+    <circle cx="65" cy="163" r="22" fill="#45aaf2"/>
+    <circle cx="235" cy="163" r="22" fill="#111827"/>
+    <circle cx="405" cy="163" r="22" fill="#0fb9b1"/>
+  </g>
+  <path d="M860 315h95m-28-28 28 28-28 28" fill="none" stroke="#17202a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
